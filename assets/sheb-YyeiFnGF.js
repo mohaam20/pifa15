@@ -1,1 +1,1 @@
-const s="/assets/sheb-wnUGqnak.png";export{s as default};
+const s="./assets/sheb-wnUGqnak.png";export{s as default};
