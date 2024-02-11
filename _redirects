@@ -1,6 +1,4 @@
 # netlify.toml
 
-[[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
+# Redirects from what the browser requests to what we serve
+/                /index.html
