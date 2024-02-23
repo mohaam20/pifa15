@@ -1,3 +1,6 @@
+# netlify.toml
 
-/                /index.html
-/dashboard      /
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
